@@ -27,7 +27,7 @@ sudo pacman -S make
 sudo pacman -S wps-office
 
 # WPS
-sudo pacman -S wps-office
+sudo pacman -S wps-office-cn
 sudo pacman -S ttf-wps-fonts
 
 # install the arc-dark theme

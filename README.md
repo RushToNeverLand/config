@@ -1,1 +1,6 @@
-This repo is just for saving some materials.
+This repo contains some configs.
+
+Manjaro
+
+Desktop background
+

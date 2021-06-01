@@ -1,0 +1,4 @@
+# (put your own initials here)echo the date to the console every
+# 15minutes between 6pm and 6am
+* 01 * * * python ~/PycharmProjects/config/network/p_nju.py
+
